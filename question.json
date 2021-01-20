@@ -1,0 +1,87 @@
+[
+    {
+        "title": "General culture questions",
+        "questions": [
+            {
+                "question": "Who wrote the Odyssey?",
+                "alternatives": ["Homero", "Juan", "Pedro", "Bart"],
+                "correct": "Homero"
+            },
+            {
+                "question": "What is the longest river in the world?",
+                "alternatives": ["Nilo", "Amazonas", "Maipu", "Chicaragua"],
+                "correct": "Amazonas"
+            },
+            {
+                "question": "What continent is Chile in?",
+                "alternatives": ["Africa", "Asia", "Europe", "America"],
+                "correct": "America"
+            },
+            {
+                "question": "What colors is the flag of Mexico",
+                "alternatives": ["Green, White & Red", "Red, White & Blue", "Light Blue & White", "Green & Yellow"],
+                "correct": "Green, White & Red"
+            },
+            {
+                "question": "What is the largest ocean?",
+                "alternatives": ["Peaceful", "Atlantic", "Indian", "Antartic"],
+                "correct": "Peaceful"
+            },
+            {
+                "question": "What is the world's largest country?",
+                "alternatives": ["China", "Russia", "United States", "Australia"],
+                "correct": "Russia"
+            },
+            {
+                "question": "What country is shaped like a boot?",
+                "alternatives": ["Italy", "Israel", "Iraq", "United Kingdom"],
+                "correct": "Italy"
+            },
+            {
+                "question": "What is the value of PI number?",
+                "alternatives": ["3.14", "3", "3.15", "3.23"],
+                "correct": "3.14"
+            }
+        ]
+    },
+    {
+        "title": "Counter Strike",
+        "questions": [
+            {
+                "question": "What is the most popular map in CS:GO?",
+                "alternatives": ["Dust 2", "Mirage", "Inferno", "Train"],
+                "correct": "Dust 2"
+            },
+            {
+                "question": "Which gun out ff this list has the best accuracy when running?",
+                "alternatives": ["MP9", "P90", "AK-47", "M4A1 or M4A1-S"],
+                "correct": "P90"
+            },
+            {
+                "question": "What is the highest rank possible in CS:GO Competitive?",
+                "alternatives": ["Supreme Master", "Nova 1", "Global Elite", "Silver 1"],
+                "correct": "Global Elite"
+            },
+            {
+                "question": "When was CS:GO released?",
+                "alternatives": ["2015", "2013", "2012", "2017"],
+                "correct": "2012"
+            },
+            {
+                "question": "When was CS 1.6 released?",
+                "alternatives": ["1998", "2000", "2001", "2003"],
+                "correct": "2000"
+            },
+            {
+                "question": "When were skins released in CS:GO?",
+                "alternatives": ["2016", "2015", "2014", "2013"],
+                "correct": "2013"
+            },
+            {
+                "question": "What is the name of the first case in CS:GO?",
+                "alternatives": ["Horizon Case", "Operation Hydra Case", "Weapon Case", "Danger Zone Case"],
+                "correct": "Weapon Case"
+            }
+        ]
+    }
+]

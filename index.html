@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Question Game</title>
+    <link href="css/globals.css" rel="stylesheet">
+    <link href="css/gameui.css" rel="stylesheet">
+</head>
+<body>
+
+    <form class="form">
+        <input type="text" placeholder="Your Name..." id="inputName">
+
+        <select class="select">
+            <option selected disabled>Select...</option>
+        </select>
+
+        <button id="btnStart" type="button">Start</button>
+    </form>
+
+    <div class="content">
+
+        <input id="answerInput" type="text" placeholder="Answer...">
+
+        <div class="dashboard">
+            <span class="dashboard__name">??</span>
+            <div>Question: <span id="recentQuestion">-</span>/<span id="quantityQuestion">-</span></div>
+        </div>
+
+        <div class="game">
+            <h2 class="game__question">QUESTION</h2>
+            <div class="game__alternatives-a-b">
+                <div class="alter alter-a">A) ---</div>
+                <div class="alter alter-b">B) ---</div>
+            </div>
+    
+            <div class="game__alternatives-c-d">
+                <div class="alter alter-c">C) ---</div>
+                <div class="alter alter-d">D) ---</div>
+            </div>
+        </div>
+
+        <button id="nextQuestion-0" type="button" class="nextQuestion" disabled>Next Question</button>
+
+    </div>
+
+    <script src="js/home.js"></script>
+</body>
+</html>
